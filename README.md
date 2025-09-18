@@ -167,7 +167,7 @@ python watermark_tool.py /Users/username/Pictures/2023 --font-size 20 --position
 ## 开发信息
 
 - **版本**: 1.0
-- **作者**: 开发团队
+- **作者**: 并非开发团队
 - **日期**: 2025年
 - **许可证**: 见 LICENSE 文件
 
